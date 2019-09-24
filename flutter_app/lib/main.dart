@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text("CODERWHY"),
+          title: Text("HOME PAGE"),
         ),
         body: HomeContent(),
       ),
